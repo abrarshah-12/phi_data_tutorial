@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+env/
+*/.venv/
+*/venv/
+*/env/
+*.egg-info/
+**/__pycache__
+
+# Package and distribution
+dist/
+build/
+*.egg
+*.whl
+*.egg-info
+
+# Installer logs
+pip-log.txt
+pip-delete-this.txt
+
+# Tests
+*.test
+test*
+
+# IDE-specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Streamlit
+.streamlit/
+
+# Sensitive files
+.env
+*.key
+*.pem
+credentials.json
+
+# Log files
+*.log
+
+# Data files and other large resources (might need to adjust based on your project)
+# data/ (If you have a data directory that you don't want to version)
+# images/ (If you have a images directory that you don't want to version)
+*.csv
+*.json
+*.sqlite
+*.parquet
+
+# Temporary files and folders
+*.tmp
+tmp/
+temp/
+**/tmp/
+**/temp/
+
+# Jupyter notebooks
+*.ipynb
+# Ignore checkpoints
+.ipynb_checkpoints/
