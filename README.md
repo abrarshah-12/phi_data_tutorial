@@ -38,8 +38,8 @@ Before you start, make sure you have the following installed:
 1.  **Clone the repository (if applicable):**
 
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [YOUR_PROJECT_DIRECTORY]
+    git clone repo/link.git
+    cd repo/link/
     ```
 
 2.  **Create a virtual environment (recommended):**
